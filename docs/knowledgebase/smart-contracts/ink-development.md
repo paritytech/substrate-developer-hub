@@ -70,8 +70,8 @@ Join the growing community of ink! smart contract developers:
 - Ask development questions on [StackOverflow](https://stackoverflow.com/questions/tagged/ink) with
   the `ink` tag.
 - Join the live chat in the
-  [Smart Contracts & Parity ink!](https://riot.im/app/#/room/!tYUCYdSvSYPMjWNDDD:matrix.parity.io)
-  on Riot.
+  [Smart Contracts & Parity ink!](https://matrix.to/#/#ink:matrix.parity.io)
+  on Element.
 - Report bugs, make feature requests, and ask technical questions on the
   [ink! GitHub](https://github.com/paritytech/ink).
 
